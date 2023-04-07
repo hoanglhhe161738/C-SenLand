@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "net6.0.112",
+    "additionalProbingPaths": [
+      "C:\\Users\\Hoàng\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hoàng\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "System.Reflection.NullabilityInfoContext.IsSupported": true,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
